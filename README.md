@@ -62,7 +62,7 @@ To create an interactive and insightful sales dashboard using the **Superstore d
 
 ---
 
-## 🧠 Learning Outcome
+## Learning Outcome
 - Developed skills in data storytelling
 - Applied visual best practices (minimal clutter, color coding, filtering)
 - Interpreted trends and shared actionable insights from raw sales data
